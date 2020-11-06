@@ -1,16 +1,20 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/eeUJaTwsHh3tswkaYm/giphy.gif">
+ 
+# Welcome!
+ 
+## Olá, Rogério aqui!
 
-<!--
-**roogercamargo/roogercamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante - primeiro semestre em Análise e desenvolvimento de sistemas :computer:
 
-Here are some ideas to get you started:
+Aprendiz de muita coisa :tanabata_tree:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Amante de corgis :dog2:
+ 
+## About me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/roogercamargo)]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/rogério-camargo-3a01191a5)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:rogerccamargo@gmail.com)
+ 
+- Obrigado por visitar. 
+ 
+- :shipit:!! o/
