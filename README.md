@@ -8,7 +8,7 @@ Estudante - primeiro semestre em Análise e desenvolvimento de sistemas :compute
 
 Aprendiz de muita coisa :tanabata_tree:
 
-Amante de corgis :dog2:
+corgis vão salvar o mundo :dog2:
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/roogercamargo)]
